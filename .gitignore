@@ -166,4 +166,4 @@ config/*.json
 # Cache directories
 .cache/
 .pytest_cache/
-.mypy_cache/
+.mypy_cache/loan_env/
